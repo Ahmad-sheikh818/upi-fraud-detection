@@ -5,6 +5,8 @@ transactions (with labelled fraud), detect fraud with three complementary
 methods — IQR outlier detection, Isolation Forest, and time-series anomaly
 detection — and evaluate each one against the ground-truth labels.
 
+🎬 [Watch the 60-second project walkthrough on LinkedIn](https://www.linkedin.com/feed/update/urn:li:ugcPost:7509678986302775296)
+
 ## Problem statement
 
 UPI fraud in India follows recognisable patterns: odd-hour high-value transfers,
